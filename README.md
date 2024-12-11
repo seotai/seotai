@@ -5,7 +5,7 @@
 
 ## Certificates
 - 전기기사
-
+- 정보처리기사
 ## Skill
 **언어**
 
